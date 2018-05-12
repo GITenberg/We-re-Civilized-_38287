@@ -1,0 +1,38 @@
+_repo: We-re-Civilized-_38287
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38287-h/images/cover.jpg
+creator:
+  authors:
+  - agent_name: Apostolides, Alex
+    birthdate: 1923
+    deathdate: 2005
+    gutenberg_agent_id: '38520'
+    url: http://www.gutenberg.org/2009/agents/38520
+  - agent_name: Clifton, Mark
+    alias: Clifton, Mark Irvin
+    birthdate: 1906
+    deathdate: 1963
+    gutenberg_agent_id: '25374'
+    url: http://www.gutenberg.org/2009/agents/25374
+description: Naturally, the superior race should win... but superior by which standards..
+  and who?
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2011-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38287'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Science fiction'
+- !lcsh 'Human-alien encounters -- Fiction'
+- !lcsh 'Mars (Planet) -- Fiction'
+- !lcsh 'Martians -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+title: We're Civilized!
+url: http://www.gutenberg.org/ebooks/38287
