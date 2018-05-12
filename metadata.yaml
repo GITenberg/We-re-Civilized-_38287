@@ -18,6 +18,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25374
 description: Naturally, the superior race should win... but superior by which standards..
   and who?
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38287#We-re-Civilized-
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2011-12-13'
 gutenberg_type: Text
